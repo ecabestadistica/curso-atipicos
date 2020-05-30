@@ -6,11 +6,9 @@ El análisis robusto de datos y la detección de atípicos (outliers) son crucia
 
 Los investigadores, estudiantes, analistas de datos y, en su mayoría, cualquier persona que esté tratando con datos reales, deben ser conscientes del problema con los valores atípicos (o outliers) y deben saber cómo tratar este problema y qué métodos robustos se deben utilizar. Y es que la gran mayoría de algoritmos de Machine Learning son capaces de detectar características comunes a la gran mayoría de los datos, pero muchas veces se ven confundidos o incluso ignoran esos datos atípicos, que no deben ser ignorados en condiciones donde peligra la seguridad de las personas, como es el caso de análisis de datos médicos, el mundo de internet de las cosas, o la seguridad en las empresas. 
 
-¿Qué ocurriría si por ignorar un dato anómalo se propagara un virus por todo el mundo? Tendríamos una pandemia
-
-¿Qué ocurriría si ignoráramos alguna señal de un sistema de una ciudad inteligente? Se nos podría pasar por alto una fuga de gas
-
-¿Qué ocurriría si por ignorar una alarma, se nos pasara un meteorito que viene hacia la tierra? Tendríamos que llamar a Bruce Willis, para salvarnos del Armageddon  
+* ¿Qué ocurriría si por ignorar un dato anómalo se propagara un virus por todo el mundo? Tendríamos una pandemia.
+* ¿Qué ocurriría si ignoráramos alguna señal de un sistema de una ciudad inteligente? Se nos podría pasar por alto una fuga de gas.
+* ¿Qué ocurriría si por ignorar una alarma, se nos pasara un meteorito que viene hacia la tierra? Tendríamos que llamar a Bruce Willis, para salvarnos del Armageddon.  
 
 Con este curso serás experto en análisis robusto de datos, en la detección y el tratamiento de los datos atípicos, tanto aprendiendo los conceptos teóricos, cómo teniendo a tu disposición los algoritmos implementados de manera práctica con dos lenguajes diferentes para que elijas el que más te conviene: R-Studio y Matlab.
 
